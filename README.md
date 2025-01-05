@@ -3,3 +3,5 @@ Multiswitch E8
 ![1 (1)](https://github.com/user-attachments/assets/cfc9bd3f-c0ad-4514-8506-7b536e6308e8)
 ![2 (3)](https://github.com/user-attachments/assets/fa1272cc-9789-4320-8610-40f8436e1f54)
 Gehäuse für Multiswitch E8
+
+[Multiswitch.zip](https://github.com/user-attachments/files/18309776/Multiswitch.zip)
